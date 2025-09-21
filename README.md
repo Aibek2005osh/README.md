@@ -1,8 +1,5 @@
 # 👋 Hey there! I'm Aibek - Java Backend Developer
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend+Developer+from+Kyrgyzstan+🇰🇬;Java+%26+Spring+Boot+Expert;Building+Scalable+Systems;Clean+Code+Enthusiast;Always+Learning+%26+Growing" alt="Typing Animation" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aibek2005osh&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
