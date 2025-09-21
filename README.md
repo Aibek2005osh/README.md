@@ -1,4 +1,4 @@
-Hi! 👋 I'm Aibek
+Hi! 👋 I'm Aibek 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Enthusiast;Software+Engineer;From+Bishkek%2C+Kyrgyzstan" alt="Typing SVG" />
 </div>
@@ -40,7 +40,6 @@ https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=i
 🔥 693 contributions in the last year - Consistency is key!
 📚 Currently focusing on Java backend development
 🌍 Based in Bishkek, Kyrgyzstan (UTC+06:00)
-💼 Working at Peaksoft House
 
 🎯 Current Focus
 javapublic class Aibek {
